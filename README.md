@@ -25,4 +25,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmatheusw&show_icons=true&locale=en" alt="lucasmatheusw" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmatheusw&" alt="lucasmatheusw" /></p>
+
 ![Snake animation](https://github.com/LucasMatheusW/LucasMatheusW/blob/output/github-contribution-grid-snake.svg)
