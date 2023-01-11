@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Python preacher, TRPG lover, cardgame junkie, and mastercheff</h3>
+<h1 align="center">Hi 👋, I'm Hanna</h1>
+<h3 align="center">TRPG lover, cardgame junkie, and mastercheff</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasmatheusw&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmatheusw" /> </p>
 
-- 🔭 I’m currently working on [RPGTracker](https://github.com/LucasMatheusW/rpgtracker)
+- 🔭 I’m currently working on [RPGTracker](https://github.com/hannaBanannaOF/rpgtracker)
 
 - 🌱 I’m currently learning **a bit of everything**
 
-- 🤝 I’m looking for help with [all my projects, actually](https://github.com/LucasMatheusW)
+- 🤝 I’m looking for help with [all my projects, actually](https://github.com/hannaBanannaOF)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LucasMatheusW](https://github.com/LucasMatheusW)
+- 👨‍💻 All of my projects are available at [https://github.com/LucasMatheusW](https://github.com/hannaBanannaOF)
 
 - 📫 How to reach me **westphallucas1@outlook.com**
 
