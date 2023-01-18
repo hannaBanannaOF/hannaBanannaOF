@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hanna</h1>
 <h3 align="center">TRPG lover, cardgame junkie, and mastercheff</h3>
 
+<div align="center">
+  
+![Snake animation](https://github.com/hannaBanannaOF/hannaBanannaOF/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasmatheusw&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmatheusw" /> </p>
 
 - 🔭 I’m currently working on [RPGTracker](https://github.com/hannaBanannaOF/rpgtracker)
@@ -25,8 +31,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannabanannaof&show_icons=true&locale=en" alt="hannabanannaof" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannabanannaof&" alt="hannabanannaof" /></p>
-<div align="center">
-  
-![Snake animation](https://github.com/hannaBanannaOF/hannaBanannaOF/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
