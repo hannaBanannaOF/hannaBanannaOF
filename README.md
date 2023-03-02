@@ -15,9 +15,9 @@
 
 - 🤝 I’m looking for help with [all my projects, actually](https://github.com/hannaBanannaOF)
 
-- 👨‍💻 All of my projects are available at [https://github.com/LucasMatheusW](https://github.com/hannaBanannaOF)
+- 👨‍💻 All of my projects are available at [https://github.com/hannaBanannaOF](https://github.com/hannaBanannaOF)
 
-- 📫 How to reach me **westphallucas1@outlook.com**
+- 📫 How to reach me **hannanicollew@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
