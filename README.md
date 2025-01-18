@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasmatheusw&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmatheusw" /> </p>
 
-- 🔭 I’m currently working on [RPGTracker](https://github.com/hannaBanannaOF/rpgtracker)
+- 🔭 I’m currently working on [RPGTracker](https://github.com/stars/hannaBanannaOF/lists/rpgtracker)
 
 - 🌱 I’m currently learning **a bit of everything**
 
